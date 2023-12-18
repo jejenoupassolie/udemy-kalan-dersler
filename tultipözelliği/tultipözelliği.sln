@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tultipözelliği", "tultipözelliği\tultipözelliği.csproj", "{84783114-B4BE-4B97-95BA-BD268295FD9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84783114-B4BE-4B97-95BA-BD268295FD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84783114-B4BE-4B97-95BA-BD268295FD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84783114-B4BE-4B97-95BA-BD268295FD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84783114-B4BE-4B97-95BA-BD268295FD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B638DC8-5019-4F03-94DE-2BCE5E5EEDB8}
+	EndGlobalSection
+EndGlobal

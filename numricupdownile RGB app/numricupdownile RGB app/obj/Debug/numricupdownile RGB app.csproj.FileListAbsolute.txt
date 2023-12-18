@@ -1,0 +1,10 @@
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\bin\Debug\numricupdownile RGB app.exe.config
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\bin\Debug\numricupdownile RGB app.exe
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\bin\Debug\numricupdownile RGB app.pdb
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile RGB app.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile_RGB_app.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile_RGB_app.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile RGB app.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile RGB app.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile RGB app.exe
+C:\Users\emine\OneDrive\Masaüstü\numricupdownile RGB app\numricupdownile RGB app\obj\Debug\numricupdownile RGB app.pdb

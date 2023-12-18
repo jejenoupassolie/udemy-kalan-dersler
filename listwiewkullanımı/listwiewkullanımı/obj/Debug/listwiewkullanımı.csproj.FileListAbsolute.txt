@@ -1,0 +1,10 @@
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\bin\Debug\listwiewkullanımı.exe.config
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\bin\Debug\listwiewkullanımı.exe
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\bin\Debug\listwiewkullanımı.pdb
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.exe
+C:\Users\emine\OneDrive\Masaüstü\listwiewkullanımı\listwiewkullanımı\obj\Debug\listwiewkullanımı.pdb

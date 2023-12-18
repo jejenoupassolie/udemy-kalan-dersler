@@ -1,0 +1,10 @@
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\bin\Debug\radiobutton_ile_hizalama1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\bin\Debug\radiobutton_ile_hizalama1.exe
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\bin\Debug\radiobutton_ile_hizalama1.pdb
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.exe
+C:\Users\emine\OneDrive\Masaüstü\radiobutton_ile_hizalama1\radiobutton_ile_hizalama1\obj\Debug\radiobutton_ile_hizalama1.pdb

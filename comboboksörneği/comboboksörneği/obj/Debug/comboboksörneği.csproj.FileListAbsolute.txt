@@ -1,0 +1,10 @@
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\bin\Debug\comboboksörneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\bin\Debug\comboboksörneği.exe
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\bin\Debug\comboboksörneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.exe
+C:\Users\emine\OneDrive\Masaüstü\comboboksörneği\comboboksörneği\obj\Debug\comboboksörneği.pdb

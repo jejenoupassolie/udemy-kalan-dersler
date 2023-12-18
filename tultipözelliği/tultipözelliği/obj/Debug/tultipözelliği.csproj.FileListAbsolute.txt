@@ -1,0 +1,10 @@
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\bin\Debug\tultipözelliği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\bin\Debug\tultipözelliği.exe
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\bin\Debug\tultipözelliği.pdb
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.exe
+C:\Users\emine\OneDrive\Masaüstü\tultipözelliği\tultipözelliği\obj\Debug\tultipözelliği.pdb

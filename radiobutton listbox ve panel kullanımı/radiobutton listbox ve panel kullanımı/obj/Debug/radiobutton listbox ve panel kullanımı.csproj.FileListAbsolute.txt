@@ -1,0 +1,5 @@
+C:\Users\emine\OneDrive\Masaüstü\radiobutton listbox ve panel kullanımı\radiobutton listbox ve panel kullanımı\obj\Debug\radiobutton listbox ve panel kullanımı.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\radiobutton listbox ve panel kullanımı\radiobutton listbox ve panel kullanımı\obj\Debug\radiobutton_listbox_ve_panel_kullanımı.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\radiobutton listbox ve panel kullanımı\radiobutton listbox ve panel kullanımı\obj\Debug\radiobutton_listbox_ve_panel_kullanımı.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\radiobutton listbox ve panel kullanımı\radiobutton listbox ve panel kullanımı\obj\Debug\radiobutton listbox ve panel kullanımı.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\radiobutton listbox ve panel kullanımı\radiobutton listbox ve panel kullanımı\obj\Debug\radiobutton listbox ve panel kullanımı.csproj.CoreCompileInputs.cache

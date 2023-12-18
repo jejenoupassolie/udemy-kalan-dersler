@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox_nesnesi_ile_sip_formu", "checkbox_nesnesi_ile_sip_formu\checkbox_nesnesi_ile_sip_formu.csproj", "{02F07F76-F4B6-4096-AD2D-CE3F357E59E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F07F76-F4B6-4096-AD2D-CE3F357E59E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F07F76-F4B6-4096-AD2D-CE3F357E59E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F07F76-F4B6-4096-AD2D-CE3F357E59E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F07F76-F4B6-4096-AD2D-CE3F357E59E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B5F7FF8-9D1E-4ACB-BAF0-7F2F7E25963F}
+	EndGlobalSection
+EndGlobal
